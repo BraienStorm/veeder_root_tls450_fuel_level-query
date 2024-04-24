@@ -4,8 +4,8 @@ Veeder Root tls-450 fuel level query
 ##Useage 
 ```
 
-$tsl450 = new TSL450('username', 'password', 'ip:port');
-print_r($tsl450->GetTank(1));    
+$tls450 = new TLS450('username', 'password', 'ip:port');
+print_r($tls450->GetTank(1));    
 
 ```
 ##Output 

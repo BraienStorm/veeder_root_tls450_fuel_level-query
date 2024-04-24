@@ -1,5 +1,5 @@
 <?php
-class TSL450
+class TLS450
 {
     private $username;
     private $password;
