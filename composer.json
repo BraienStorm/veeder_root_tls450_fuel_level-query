@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "BraienStorm\\VeederRouteTLS450\\" : "src"
+            "BraienStorm\\VeederRouteTLS450\\" : ""
         }
     },
     "autoload-dev": {
