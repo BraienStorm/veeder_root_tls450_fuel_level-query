@@ -1,5 +1,5 @@
 {
-    "name": "braienstorm/VeederRouteTLS450",
+    "name": "braienstorm/veeder-route-tls450",
     "description": "Veeder Root TLS450 tank query and data parser",
     "type": "library",
     "require": {
@@ -13,12 +13,12 @@
     },
     "autoload": {
         "psr-4": {
-            "BraienStorm\\VeederRouteTLS450\\" : ""
+            "BraienStorm\\veeder-route-tls450\\" : ""
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "BraienStorm\\VeederRouteTLS450\\Tests\\" : "tests"
+            "BraienStorm\\veeder-route-tls450\\Tests\\" : "tests"
         }
     },
     "license": "MIT",

@@ -1,5 +1,5 @@
 <?php
-namespace BraienStorm\VeederRouteTLS450\;
+namespace BraienStorm\veeder-route-tls450\;
 class TLS450
 {
     private $username;
