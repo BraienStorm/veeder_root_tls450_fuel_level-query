@@ -1,4 +1,5 @@
 <?php
+namespace BraienStorm\\Helper;
 class TLS450
 {
     private $username;

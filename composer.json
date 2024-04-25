@@ -1,0 +1,31 @@
+{
+    "name": "braienstorm/bin-packer",
+    "description": "Veeder Root TLS450 tank query and data parser",
+    "type": "library",
+    "require": {
+        "php": "^7.2 || ^8.0"
+    },
+    "require-dev": {
+        "ext-imagick": "*"
+    },
+    "suggest": {
+        
+    },
+    "autoload": {
+        "psr-4": {
+            "BraienStorm\\VeederRouteTLS450\\" : "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "BraienStorm\\VeederRouteTLS450\\Tests\\" : "tests"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dániel Pásthi",
+            "email": "eccosoft@gmail.com"
+        }
+    ]
+}
