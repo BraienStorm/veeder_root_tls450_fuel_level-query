@@ -1,5 +1,5 @@
 {
-    "name": "braienstorm/bin-packer",
+    "name": "braienstorm/VeederRouteTLS450",
     "description": "Veeder Root TLS450 tank query and data parser",
     "type": "library",
     "require": {
